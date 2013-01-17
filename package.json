@@ -1,0 +1,17 @@
+{
+    "name": "email-i18n",
+    "description": "email pre-processor with i18n and premailer integration",
+    "version": "0.1.0",
+    "repository": "git://github.com/peerigon/email-i18n.git",
+    "author": "peerigon",
+    "main" : "lib/index.js",
+    "engines": {
+        "node": "0.8.x"
+    },
+    "dependencies": {
+        "async" : "0.x",
+        "ejs" : "0.6.x",
+        "premailer-client" : "0.x",
+        "underscore" : "1.x"
+    }
+}
